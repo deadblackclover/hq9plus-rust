@@ -1,5 +1,5 @@
 [package]
-name = "hq9plus-rust"
+name = "hq9plus"
 version = "0.1.0"
 authors = ["DEADBLACKCLOVER <deadblackclover@protonmail.com>"]
 description = "HQ9+ interpreter made using Rust"
