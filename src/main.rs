@@ -1,3 +1,16 @@
+/*   Copyright (c) 2020, DEADBLACKCLOVER. This file is
+ *   licensed under the GNU General Public License version 3 or later. See
+ *   the LICENSE file.
+ */
+//! hq9plus
+//!
+//! HQ9+ interpreter made using Rust
+//!
+//! ### Run
+//!
+//! ```sh
+//! hq9plus filename
+//! ```
 use std::env;
 use std::fs;
 use std::fs::File;
